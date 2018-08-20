@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Flames game</string>
+    <string name="hint1">Your Name</string>
+    <string name="hint2">Partner Name</string>
+    <string name="button">CHECK</string>
+    <string name="name1">F.R.I.E.N.D.S</string>
+    <string name="name2">LOVE</string>
+    <string name="name3">AFFECTION</string>
+    <string name="name4">MARRIAGE</string>
+    <string name="name5">ENEMY</string>
+    <string name="name6">SIBLING</string>
+    <string name="quote1">FRIENDS ARE MEDICINE FOR WOUNDED HEART,AND VITAMINS FOR A HOPEFUL SOUL!!</string>
+    <string name="quote2">LOVE ISN\'T EASY,IT MUST BE FOUGHT FOR,BECAUSE ONCE FOUND,IT CAN NEVER BE REPLACED.</string>
+    <string name="quote3">AFFECTION IS THE BROADEST BASIS OF A GOOD LIFE.</string>
+    <string name="quote4">A HAPPY MARRIAGE IS THE UNION OF TWO GOOD FORGIVERS....</string>
+    <string name="quote5">FORGIVE YOUR ENEMIES BUT NEVER FORGET THEIR NAMES!!</string>
+    <string name="quote6">BEING A BROTHER/SISTER IS EVEN GREATER THAN BEING A SUPERHERO..</string>
+</resources>
